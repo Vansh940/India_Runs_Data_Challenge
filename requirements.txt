@@ -1,0 +1,10 @@
+flask
+pandas
+numpy
+lightgbm
+transformers
+openpyxl
+joblib
+tqdm
+scikit-learn
+watchdog
